@@ -1,12 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF727&random=false&width=500&height=40&lines=Hey%2F+I'm+Jana." alt="Typing SVG" /></a>
   <div>
-    <tr>
-       <td>
-        <img src="https://i.imgur.com/4z6nSP0.png" style="width:390px">
-      </td>
-    </tr>
-   <div align="center"> 
+   <div align="right"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=highcontrast" alt="Top Languages">
    </div>
   </div>
