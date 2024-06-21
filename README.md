@@ -5,9 +5,6 @@
       <td>
         <img src="card.png" style="width:390px">
       </td>
-      <td>
-        <img alt="Coding" width="350" src="https://i.imgur.com/eJWub24.png">
-      </td>
     </tr>
 
    <div align="center"> 
