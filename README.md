@@ -3,7 +3,7 @@
   <div style="display:flex;">
        <div>
         <img src="card.png" style="margin-top: -30px; width:350px">
-        <img src="drawart.png" align="right" style="width:300px; margin-top: -110px">
+        <img src="drawart.png" align="right" style="width:300px; margin-top: -200px">
         </div>   
    <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=chartreuse-dark" alt="Top Languages">
