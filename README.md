@@ -5,7 +5,7 @@
       <td>
         <img src="card.png" style="width:390px">
        <div align="right">
-        <img src="drawart.png" width=300>
+        <img src="drawart.png" width=300 top=10>
        </div>
       </td>
     </tr>
