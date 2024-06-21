@@ -1,14 +1,18 @@
-<div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Minecraft&duration=4500&pause=1000&color=13F700&random=false&width=435&lines=Hi+o%2F+I'm+Jana" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Retropix&duration=4300&pause=1000&color=13F700&random=false&width=435&lines=hi+%3A%5D+i'm+jana" alt="Typing SVG" /></a>
   <div>
     <tr>
       <td>
-        <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&chartreuse-dark" alt="my languages">
-        <img alt="Coding" width="250" align="left" src="coding.png">
-        </div>
+        <img src="https://i.imgur.com/4z6nSP0.png" style="width:390px">
+      </td>
+      <td>
+        <img alt="Coding" width="350" src="https://i.imgur.com/eJWub24.png">
       </td>
     </tr>
+
+   <div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimarchi&layout=compact&theme=highcontrast" alt="Top Languages">
+   </div>
   </div>
   <br>
 </div>
