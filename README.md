@@ -7,7 +7,7 @@
       </td>
     </tr>
 
-   <div align="center"> 
+   <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=chartreuse-dark" alt="Top Languages">
    </div>
   </div>
