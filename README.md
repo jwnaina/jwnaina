@@ -4,7 +4,6 @@
   <div>
    <div>
     <p> </p>
-    <p> </p>
    <img src="card.png" width="450" align="left">
    </div>
    <img src="drawart.png" width="300" align="right">
