@@ -4,13 +4,12 @@
     <tr>
       <td>
         <div align="right">
-        <img alt="Coding" src="https://imgur.com/a/4EazSsp">
+        <img alt="Coding" src="Ground-breaking.png">
         </div>
       </td>
     </tr>
-
-   <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=highcontrast" alt="my languages">
+   <div align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&chartreuse-dark" alt="my languages">
    </div>
   </div>
   <br>
