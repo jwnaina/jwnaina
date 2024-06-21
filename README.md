@@ -5,7 +5,7 @@
       <td>
         <div align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&chartreuse-dark" alt="my languages">
-        <img alt="Coding" width="350" src="Ground-breaking.png">
+        <img alt="Coding" width="350" align="right" src="Ground-breaking.png">
         </div>
       </td>
     </tr>
