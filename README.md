@@ -3,8 +3,8 @@
   <div>
     <tr>
       <td>
-        <img src="card.png" style="width:390px">
-        <img src="drawart.png" width=350 height=300>
+        <img src="card.png" style="width:390px top=-20px" >
+        <img src="drawart.png" width=350>
       </td>
     </tr>
    
