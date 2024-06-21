@@ -4,7 +4,6 @@
     <tr>
       <td>
         <img src="card.png" style="width:390px">
-       <div align="right">
         <img src="drawart.png" width=350">
       </td>
     </tr>
