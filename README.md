@@ -7,6 +7,9 @@
    <img src="card.png" width="450" align="left">
    </div>
    <img src="drawart.png" width="300" align="right">
+   <p> </p>
+   <p> </p>
+   <p> </p>
   </div>
   <div>
    <p> </p>
