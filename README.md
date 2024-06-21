@@ -4,8 +4,8 @@
     <tr>
       <td>
        <div>
-        <img src="card.png" style="width:350px">
-        <img src="drawart.png" style="margin-top: -30px; width:300px">
+        <img src="card.png" style="margin-top: -30px; width:350px">
+        <img src="drawart.png" style=" width:300px">
         </div>
       </td>
     </tr>
