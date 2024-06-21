@@ -3,9 +3,6 @@
   <div>
     <tr>
       <td>
-        <img src="https://i.imgur.com/4z6nSP0.png" style="width:390px">
-      </td>
-      <td>
         <img alt="Coding" width="350" src="https://imgur.com/a/4EazSsp">
       </td>
     </tr>
