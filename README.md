@@ -4,7 +4,7 @@
     <tr>
       <td>
         <div align="right">
-        <img alt="Coding" src="Ground-breaking.png">
+        <img alt="Coding" width="350" src="Ground-breaking.png">
         </div>
       </td>
     </tr>
