@@ -3,7 +3,7 @@
   <div>
     <tr>
       <td>
-        <img src="card.png" style="width:390px top:0px">
+        <img src="card.png" style="width:390px">
         <img src="drawart.png" style="width:350px left: 20px"> 
       </td>
     </tr>
