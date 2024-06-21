@@ -6,7 +6,13 @@
         <img src="card.png" style="width:390px">
       </td>
     </tr>
-
+   <div>
+    <tr>
+     <td>
+      <img src="drawart.png" width=300> 
+     </td>
+    </tr>
+    </div>
    <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=chartreuse-dark" alt="Top Languages">
    </div>
