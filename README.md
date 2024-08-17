@@ -1,18 +1,8 @@
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Retropix&duration=4300&pause=1000&color=13F700&random=false&width=435&lines=hi%20:%5D%20i%27m%20jana">
-</div>
-<div>
-  <div>
-  <img src="https://raw.githubusercontent.com/jwnaina/jwnaina/main/card.png" width="430" align="left">
-  </div>
-  <img src="https://raw.githubusercontent.com/jwnaina/jwnaina/main/drawart.png" width="300" align="right">
-</div>
-<div>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-    <p> </p>
-    <p> </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=13F700" alt="Top Languages">
-</div>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+I'm **Jana**, a computer science student from Brazil. I'm primarily interested in **fullstack development**.
+Here you can find some of my projects aligned with my studies and personal interests.
+
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/janavasconcelos)
