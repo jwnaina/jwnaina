@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Jana**, a computer science student from Brazil. I'm primarily interested in **fullstack development**.<br>
+I'm **Janaina**, a computer science student from Brazil. I'm primarily interested in **fullstack development**.<br>
 Here you can find some of my projects aligned with my studies and personal interests.
 
 
