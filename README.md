@@ -1,5 +1,5 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48ACF0&random=false&width=400&height=30&lines=Hello+there" alt="Typing SVG" /></a> <br>
 I'm **Janaina**, a computer science student from Brazil. I'm primarily interested in **fullstack development**.<br>
 Here you can find some of my projects aligned with my studies and personal interests.
 <p></p>
