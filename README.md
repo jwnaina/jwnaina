@@ -6,5 +6,4 @@ Here you can find some of my <br>projects aligned with my studies, personal inte
 <p></p>
 <p></p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnaina&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="260px">
 
